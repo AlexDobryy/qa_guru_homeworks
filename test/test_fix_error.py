@@ -18,7 +18,7 @@ def add(a, b):
 
 
 def greet(name):
-    print("Привет," + name)
+    print("Привет!!!!!!," + name)
 
 
 greet("мир")
